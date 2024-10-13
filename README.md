@@ -18,3 +18,7 @@ Simple calculator made in C++, with the following capabilities:
 - Added Division.
 
 #### NOTE: Version 1.0's code was lost.
+
+### Version 1.1
+
+- Added Exponentiation.
